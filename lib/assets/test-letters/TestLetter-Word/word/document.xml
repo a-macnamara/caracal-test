@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<w:document xmlns:wpc="http://schemas.microsoft.com/office/word/2010/wordprocessingCanvas" xmlns:mo="http://schemas.microsoft.com/office/mac/office/2008/main" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:mv="urn:schemas-microsoft-com:mac:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:m="http://schemas.openxmlformats.org/officeDocument/2006/math" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordprocessingDrawing" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:w10="urn:schemas-microsoft-com:office:word" xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml" xmlns:w15="http://schemas.microsoft.com/office/word/2012/wordml" xmlns:wpg="http://schemas.microsoft.com/office/word/2010/wordprocessingGroup" xmlns:wpi="http://schemas.microsoft.com/office/word/2010/wordprocessingInk" xmlns:wne="http://schemas.microsoft.com/office/word/2006/wordml" xmlns:wps="http://schemas.microsoft.com/office/word/2010/wordprocessingShape" mc:Ignorable="w14 w15 wp14">
+	<w:background w:color="FFFFFF"/>
+	<w:body>
+		<w:p w14:paraId="64DE401E" w14:textId="77777777" w:rsidR="00D075D9" w:rsidRDefault="00276D1D">
+			<w:r>
+				<w:t>Dear Ladies and Gentlemen:</w:t>
+			</w:r>
+		</w:p>
+		<w:p w14:paraId="3D4EAEC4" w14:textId="77777777" w:rsidR="00D075D9" w:rsidRDefault="00D075D9"/>
+		<w:p w14:paraId="0E937650" w14:textId="77777777" w:rsidR="00D075D9" w:rsidRDefault="00276D1D">
+			<w:r>
+				<w:t>This is a test of Caracal. Please ignore it.</w:t>
+			</w:r>
+		</w:p>
+		<w:p w14:paraId="4A2E9E1F" w14:textId="77777777" w:rsidR="00D075D9" w:rsidRDefault="00D075D9"/>
+		<w:p w14:paraId="7974FAE7" w14:textId="77777777" w:rsidR="00D075D9" w:rsidRDefault="00276D1D" w:rsidP="007D7B12">
+			<w:pPr>
+				<w:numPr>
+					<w:ilvl w:val="0"/>
+					<w:numId w:val="1"/>
+				</w:numPr>
+				<w:tabs>
+					<w:tab w:val="left" w:pos="1440"/>
+				</w:tabs>
+				<w:ind w:left="0" w:firstLine="720"/>
+				<w:contextualSpacing/>
+			</w:pPr>
+			<w:r>
+				<w:rPr>
+					<w:b/>
+					<w:u w:val="single"/>
+				</w:rPr>
+				<w:t>Purpose.</w:t>
+			</w:r>
+			<w:r>
+				<w:t xml:space="preserve"> The purpose of this letter is to test out Caracal. The quick brown fox jumps over the lazy dog. Fou</w:t>
+			</w:r>
+			<w:bookmarkStart w:id="0" w:name="_GoBack"/>
+			<w:bookmarkEnd w:id="0"/>
+			<w:r>
+				<w:t xml:space="preserve">rscore and seven years ago our </w:t>
+			</w:r>
+			<w:proofErr w:type="gramStart"/>
+			<w:r>
+				<w:t>forefathers</w:t>
+			</w:r>
+			<w:proofErr w:type="gramEnd"/>
+			<w:r>
+				<w:t xml:space="preserve"> blah blah. </w:t>
+			</w:r>
+			<w:proofErr w:type="spellStart"/>
+			<w:r>
+				<w:t>Twas</w:t>
+			</w:r>
+			<w:proofErr w:type="spellEnd"/>
+			<w:r>
+				<w:t xml:space="preserve"> </w:t>
+			</w:r>
+			<w:proofErr w:type="spellStart"/>
+			<w:r>
+				<w:t>brillig</w:t>
+			</w:r>
+			<w:proofErr w:type="spellEnd"/>
+			<w:r>
+				<w:t xml:space="preserve"> and the </w:t>
+			</w:r>
+			<w:proofErr w:type="spellStart"/>
+			<w:r>
+				<w:t>slithy</w:t>
+			</w:r>
+			<w:proofErr w:type="spellEnd"/>
+			<w:r>
+				<w:t xml:space="preserve"> </w:t>
+			</w:r>
+			<w:proofErr w:type="spellStart"/>
+			<w:r>
+				<w:t>toves</w:t>
+			</w:r>
+			<w:proofErr w:type="spellEnd"/>
+			<w:r>
+				<w:t xml:space="preserve"> did gyre and </w:t>
+			</w:r>
+			<w:proofErr w:type="spellStart"/>
+			<w:r>
+				<w:t>gimble</w:t>
+			</w:r>
+			<w:proofErr w:type="spellEnd"/>
+			<w:r>
+				<w:t xml:space="preserve"> in the </w:t>
+			</w:r>
+			<w:proofErr w:type="spellStart"/>
+			<w:r>
+				<w:t>wabe</w:t>
+			</w:r>
+			<w:proofErr w:type="spellEnd"/>
+			<w:r>
+				<w:t xml:space="preserve">. All </w:t>
+			</w:r>
+			<w:proofErr w:type="spellStart"/>
+			<w:r>
+				<w:t>mimsy</w:t>
+			</w:r>
+			<w:proofErr w:type="spellEnd"/>
+			<w:r>
+				<w:t xml:space="preserve"> were the </w:t>
+			</w:r>
+			<w:proofErr w:type="spellStart"/>
+			<w:r>
+				<w:t>borogoves</w:t>
+			</w:r>
+			<w:proofErr w:type="spellEnd"/>
+			<w:r>
+				<w:t xml:space="preserve"> and th</w:t>
+			</w:r>
+			<w:r>
+				<w:t xml:space="preserve">e </w:t>
+			</w:r>
+			<w:proofErr w:type="spellStart"/>
+			<w:r>
+				<w:t>mome</w:t>
+			</w:r>
+			<w:proofErr w:type="spellEnd"/>
+			<w:r>
+				<w:t xml:space="preserve"> </w:t>
+			</w:r>
+			<w:proofErr w:type="spellStart"/>
+			<w:r>
+				<w:t>raths</w:t>
+			</w:r>
+			<w:proofErr w:type="spellEnd"/>
+			<w:r>
+				<w:t xml:space="preserve"> </w:t>
+			</w:r>
+			<w:proofErr w:type="spellStart"/>
+			<w:r>
+				<w:t>outgrabe</w:t>
+			</w:r>
+			<w:proofErr w:type="spellEnd"/>
+			<w:r>
+				<w:t>.</w:t>
+			</w:r>
+			<w:r>
+				<w:br/>
+			</w:r>
+		</w:p>
+		<w:p w14:paraId="17CA627C" w14:textId="77777777" w:rsidR="00D075D9" w:rsidRDefault="00276D1D" w:rsidP="007D7B12">
+			<w:pPr>
+				<w:numPr>
+					<w:ilvl w:val="0"/>
+					<w:numId w:val="1"/>
+				</w:numPr>
+				<w:tabs>
+					<w:tab w:val="left" w:pos="1440"/>
+				</w:tabs>
+				<w:ind w:left="0" w:firstLine="720"/>
+				<w:contextualSpacing/>
+			</w:pPr>
+			<w:r>
+				<w:rPr>
+					<w:b/>
+					<w:u w:val="single"/>
+				</w:rPr>
+				<w:t>Fee.</w:t>
+			</w:r>
+			<w:r>
+				<w:t xml:space="preserve"> There is no fee for this letter.</w:t>
+			</w:r>
+		</w:p>
+		<w:sectPr w:rsidR="00D075D9">
+			<w:footerReference w:type="default" r:id="rId7"/>
+			<w:pgSz w:w="12240" w:h="15840"/>
+			<w:pgMar w:top="1440" w:right="1440" w:bottom="1440" w:left="1440" w:header="720" w:footer="720" w:gutter="0"/>
+			<w:cols w:space="720"/>
+		</w:sectPr>
+	</w:body>
+</w:document>

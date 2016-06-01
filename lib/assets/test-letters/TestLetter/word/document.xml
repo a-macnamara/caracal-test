@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<w:document xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:m="http://schemas.openxmlformats.org/officeDocument/2006/math" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:w10="urn:schemas-microsoft-com:office:word" xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:wne="http://schemas.microsoft.com/office/word/2006/wordml" xmlns:sl="http://schemas.openxmlformats.org/schemaLibrary/2006/main" xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" xmlns:pic="http://schemas.openxmlformats.org/drawingml/2006/picture" xmlns:c="http://schemas.openxmlformats.org/drawingml/2006/chart" xmlns:lc="http://schemas.openxmlformats.org/drawingml/2006/lockedCanvas" xmlns:dgm="http://schemas.openxmlformats.org/drawingml/2006/diagram">
+	<w:background w:color="FFFFFF"/>
+	<w:body>
+		<w:p w:rsidP="00000000" w:rsidRDefault="00000000" w:rsidR="00000000" w:rsidRPr="00000000" w:rsidDel="00000000">
+			<w:pPr>
+				<w:contextualSpacing w:val="0"/>
+			</w:pPr>
+			<w:r w:rsidR="00000000" w:rsidRPr="00000000" w:rsidDel="00000000">
+				<w:rPr>
+					<w:rtl w:val="0"/>
+				</w:rPr>
+				<w:t xml:space="preserve">Dear Ladies and Gentlemen:</w:t>
+			</w:r>
+		</w:p>
+		<w:p w:rsidP="00000000" w:rsidRDefault="00000000" w:rsidR="00000000" w:rsidRPr="00000000" w:rsidDel="00000000">
+			<w:pPr>
+				<w:contextualSpacing w:val="0"/>
+			</w:pPr>
+			<w:r w:rsidR="00000000" w:rsidRPr="00000000" w:rsidDel="00000000">
+				<w:rPr>
+					<w:rtl w:val="0"/>
+				</w:rPr>
+				<w:t xml:space="preserve"/>
+			</w:r>
+		</w:p>
+		<w:p w:rsidP="00000000" w:rsidRDefault="00000000" w:rsidR="00000000" w:rsidRPr="00000000" w:rsidDel="00000000">
+			<w:pPr>
+				<w:contextualSpacing w:val="0"/>
+			</w:pPr>
+			<w:r w:rsidR="00000000" w:rsidRPr="00000000" w:rsidDel="00000000">
+				<w:rPr>
+					<w:rtl w:val="0"/>
+				</w:rPr>
+				<w:t xml:space="preserve">This is a test of Caracal. Please ignore it.</w:t>
+			</w:r>
+		</w:p>
+		<w:p w:rsidP="00000000" w:rsidRDefault="00000000" w:rsidR="00000000" w:rsidRPr="00000000" w:rsidDel="00000000">
+			<w:pPr>
+				<w:contextualSpacing w:val="0"/>
+			</w:pPr>
+			<w:r w:rsidR="00000000" w:rsidRPr="00000000" w:rsidDel="00000000">
+				<w:rPr>
+					<w:rtl w:val="0"/>
+				</w:rPr>
+				<w:t xml:space="preserve"/>
+			</w:r>
+		</w:p>
+		<w:p w:rsidP="00000000" w:rsidRDefault="00000000" w:rsidR="00000000" w:rsidRPr="00000000" w:rsidDel="00000000">
+			<w:pPr>
+				<w:numPr>
+					<w:ilvl w:val="0"/>
+					<w:numId w:val="1"/>
+				</w:numPr>
+				<w:ind w:left="1440" w:hanging="719"/>
+				<w:contextualSpacing w:val="1"/>
+				<w:rPr>
+					<w:u w:val="none"/>
+				</w:rPr>
+			</w:pPr>
+			<w:r w:rsidR="00000000" w:rsidRPr="00000000" w:rsidDel="00000000">
+				<w:rPr>
+					<w:rtl w:val="0"/>
+				</w:rPr>
+				<w:t xml:space="preserve"/>
+			</w:r>
+			<w:r w:rsidR="00000000" w:rsidRPr="00000000" w:rsidDel="00000000">
+				<w:rPr>
+					<w:b w:val="1"/>
+					<w:u w:val="single"/>
+					<w:rtl w:val="0"/>
+				</w:rPr>
+				<w:t xml:space="preserve">Purpose.</w:t>
+			</w:r>
+			<w:r w:rsidR="00000000" w:rsidRPr="00000000" w:rsidDel="00000000">
+				<w:rPr>
+					<w:rtl w:val="0"/>
+				</w:rPr>
+				<w:t xml:space="preserve"> The purpose of this letter is to test out Caracal. The quick brown fox jumps over the lazy dog. Fourscore and seven years ago our forefathers blah blah. Twas brillig and the slithy toves did gyre and gimble in the wabe. All mimsy were the borogoves and the mome raths outgrabe.</w:t>
+			</w:r>
+			<w:r>
+				<w:br/>
+			</w:r>
+		</w:p>
+		<w:p w:rsidP="00000000" w:rsidRDefault="00000000" w:rsidR="00000000" w:rsidRPr="00000000" w:rsidDel="00000000">
+			<w:pPr>
+				<w:numPr>
+					<w:ilvl w:val="0"/>
+					<w:numId w:val="1"/>
+				</w:numPr>
+				<w:ind w:left="1440" w:hanging="719"/>
+				<w:contextualSpacing w:val="1"/>
+				<w:rPr>
+					<w:u w:val="none"/>
+				</w:rPr>
+			</w:pPr>
+			<w:r w:rsidR="00000000" w:rsidRPr="00000000" w:rsidDel="00000000">
+				<w:rPr>
+					<w:rtl w:val="0"/>
+				</w:rPr>
+				<w:t xml:space="preserve"/>
+			</w:r>
+			<w:r w:rsidR="00000000" w:rsidRPr="00000000" w:rsidDel="00000000">
+				<w:rPr>
+					<w:b w:val="1"/>
+					<w:u w:val="single"/>
+					<w:rtl w:val="0"/>
+				</w:rPr>
+				<w:t xml:space="preserve">Fee.</w:t>
+			</w:r>
+			<w:r w:rsidR="00000000" w:rsidRPr="00000000" w:rsidDel="00000000">
+				<w:rPr>
+					<w:rtl w:val="0"/>
+				</w:rPr>
+				<w:t xml:space="preserve"> There is no fee for this letter.</w:t>
+			</w:r>
+		</w:p>
+		<w:sectPr>
+			<w:footerReference r:id="rId2" w:type="default"/>
+			<w:pgSz w:w="12240" w:h="15840"/>
+			<w:pgMar w:top="1440" w:bottom="1440" w:left="1440" w:right="1440"/>
+		</w:sectPr>
+	</w:body>
+</w:document>
