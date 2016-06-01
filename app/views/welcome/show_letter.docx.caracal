@@ -1,0 +1,102 @@
+require 'caracal/core/models/list_style_model'
+
+logger.debug "BEFORE - list_styles.count: #{docx.list_styles.count}"
+#docx.list_styles.each_with_index do |s, i|
+#	logger.debug "style #{i}:"
+#	logger.debug "   style_type:    #{s.style_type}"
+#	logger.debug "   style_level:   #{s.style_level}"
+#	logger.debug "   style_format:  #{s.style_format}"
+#	logger.debug "   style_value:   #{s.style_value}"
+#	logger.debug "   style_start:   #{s.style_start}"
+#	logger.debug "   style_align:   #{s.style_align}"
+#	logger.debug "   style_left:    #{s.style_left}"
+#	logger.debug "   style_indent:  #{s.style_indent}"
+#	logger.debug "   style_restart: #{s.style_restart}"
+#end
+
+# encoding: UTF-8
+#-----------------------------------------------------
+# page settings
+#-----------------------------------------------------
+
+docx.page_numbers true do
+	align :right
+end
+
+docx.style do
+	id   'Normal'
+	name 'Normal'
+	font 'Times New Roman'
+	size 22
+	line 240
+	align :both
+end
+
+#logger.debug "unregistering all list styles"
+#docx.list_styles.each do |s|
+#	logger.debug "deleting [#{s.style_type}, #{s.style_level}]"
+#	docx.unregister_list_style(s.style_type, s.style_level)
+#end
+
+logger.debug "registering our one list style"
+docx.list_style do
+	type	:ordered
+	level	0
+	format	'decimal'
+	value	'%1.'
+	align	:both
+	left	1440
+	indent	720
+end
+
+logger.debug "AFTER - list_styles.count: #{docx.list_styles.count}"
+docx.list_styles.each_with_index do |s, i|
+	logger.debug "style #{i}:"
+	logger.debug "   style_type:    #{s.style_type}"
+	logger.debug "   style_level:   #{s.style_level}"
+	logger.debug "   style_format:  #{s.style_format}"
+	logger.debug "   style_value:   #{s.style_value}"
+	logger.debug "   style_start:   #{s.style_start}"
+	logger.debug "   style_align:   #{s.style_align}"
+	logger.debug "   style_left:    #{s.style_left}"
+	logger.debug "   style_indent:  #{s.style_indent}"
+	logger.debug "   style_restart: #{s.style_restart}"
+end
+
+# these only seem to appear when the renderer is called, so toplevel_lists isn't defined yet
+#logger.debug "toplevel_lists.count: #{docx.toplevel_lists.count}"
+#docx.toplevel_lists.each_with_index do |m, i|
+#	logger.debug "list #{i}:"
+#	logger.debug "  list_level: #{m.list_level}"
+#	logger.debug "  level_map.count: #{m.level_map.count}"
+#	m.level_map.each do |(level, type)|
+#		logger.debug "    list style: level #{level}, type: #{type}:"
+#		if s = docx.find_list_style(type, level)
+#			logger.debug "      format=#{s.style_format}, value=#{s.style_value}"
+#		else
+#			logger.debug "      unable to find list style!"
+#		end
+#	end
+#	logger
+#end
+
+
+#-----------------------------------------------------
+# document
+#-----------------------------------------------------
+
+docx.p "Dear Ladies and Gentlemen:"
+docx.p
+docx.p "This is a test of Caracal. Please ignore it."
+docx.p
+docx.ol do
+	li do
+		text "Purpose.", bold: true, underline: true
+		text " The purpose of this letter is to test out Caracal. The quick brown fox jumps over the lazy dog. Fourscore and seven years ago our forefathers blah blah. Twas brillig and the slithy toves did gyre and gimble in the wabe. All mimsy were the borogoves and the mome raths outgrabe."
+		br
+	end
+	li do
+		text "Fee.", bold: true, underline: true
+		text " There is no fee for this letter."
+	end
+end
